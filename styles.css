@@ -1,0 +1,23 @@
+* {
+    font-family: "Helvetica", "Montserrat", sans-serif;
+}
+
+h1, div {
+    padding: 0.5em;
+    color: white;
+}
+
+h1 {
+    background-color: #333745;
+    font-size: 100px;
+}
+
+div {
+    background-color: #EAD2AC;
+}
+
+span {
+    font-size: 32px;
+    margin: auto;
+    padding: 1em;
+}
