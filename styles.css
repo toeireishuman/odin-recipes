@@ -1,23 +1,33 @@
 * {
-    font-family: "Helvetica", "Montserrat", sans-serif;
+    font-family: "Helvetica", sans-serif;
+}
+
+main {
+    width: 900px;
+    margin: 0 auto;
 }
 
 h1, div {
     padding: 0.5em;
     color: white;
+    margin: auto;
 }
 
 h1 {
     background-color: #333745;
     font-size: 100px;
+    margin: 10px auto;
+    text-align: center;
 }
 
 div {
     background-color: #EAD2AC;
+    padding: 50px;
 }
 
 span {
     font-size: 32px;
-    margin: auto;
+    background-color: white;
+    margin: 0 auto;
     padding: 1em;
 }
