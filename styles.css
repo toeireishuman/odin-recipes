@@ -23,11 +23,20 @@ h1 {
 div {
     background-color: #EAD2AC;
     padding: 50px;
+    display: flex;
 }
 
 span {
     font-size: 32px;
-    background-color: white;
-    margin: 0 auto;
+    background-color: #E63462;
+    color: #EAD2AC;
+    margin: 10px 10px;
+    text-align: center;
     padding: 1em;
+    flex: 1;
+}
+
+a {
+    color: #EAD2AC;
+    text-decoration: none;
 }
